@@ -73,8 +73,8 @@ Here are the most popular ascending intervals:
 
 Compound intervals are created by adding octaves:
 
-| Simple | | Compound | |
-| :-- | :-: | :-: |
+| Simple | Array | Compound | Array |
+| :-- | :-: | :-: | :-: |
 | second | `[2, -1]` | ninth | `[-2, 0]`
 | third | `[4, -3]` | tenth | `[4, -2]`
 | ... | ... | ... | ... |
